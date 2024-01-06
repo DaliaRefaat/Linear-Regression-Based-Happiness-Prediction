@@ -26,6 +26,7 @@ Displays the R-squared value, indicating the goodness of fit.
 
 Includes an example of predicting happiness for a specified income value.
 Example Usage:
+![visuals](https://github.com/DaliaRefaat/Linear-Regression-Based-Happiness-Prediction/assets/125277143/602c931b-96e3-4acd-804a-16649491c48b)
 
 # Example Prediction
 new_income = np.array([[30]])  # Replace with your income value
